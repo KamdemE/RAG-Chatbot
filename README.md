@@ -46,7 +46,7 @@ rag-chatbot/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/[github.com/YOUR_USERNAME]/rag-chatbot-mg-zs.git
+git clone https://github.com/[github.com/YOUR_USERNAME]/RAG-Chatbot.git
 cd rag-chatbot-mg-zs
 
 # 2. Install dependencies

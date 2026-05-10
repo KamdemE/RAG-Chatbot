@@ -46,7 +46,7 @@ rag-chatbot/
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/[github.com/VOTRE_PSEUDO]/rag-chatbot-mg-zs.git
+git clone https://github.com/[github.com/VOTRE_PSEUDO]/RAG-Chatbot.git
 cd rag-chatbot-mg-zs
 
 # 2. Installer les dépendances
@@ -103,7 +103,7 @@ Voici les avertissements à prendre en compte :
 ## Auteurs
 
 - **KAMDEM KOUAM Ezechiel** 
-— [github.com/VOTRE_PSEUDO](https://github.com/KamdemE)
+— [github.com/KamdemE](https://github.com/KamdemE)
 
 ---
 
