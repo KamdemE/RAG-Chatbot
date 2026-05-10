@@ -34,19 +34,11 @@ où `rang_i` est la position du document dans la liste `i` et `k=60` est une con
 rag-chatbot/
 ├── FirstRAGproject.ipynb   # Notebook principal — pipeline complet commenté
 ├── data/
-│   └── mg-zs-warning-messages.html  # ⚠️ Non inclus — voir section Données ci-dessous
+│   └── mg-zs-warning-messages.html  
 ├── README.md
 ├── README.fr.md
 └── LICENSE
 ```
-
----
-
-## Données
-
-> ⚠️ **Le fichier HTML `mg-zs-warning-messages.html` n'est PAS inclus dans ce dépôt.**
->
-> Ce fichier est extrait du manuel du propriétaire MG ZS et peut être soumis au droit d'auteur de MG Motor. Veuillez l'obtenir depuis votre propre documentation véhicule ou une source autorisée. Une fois obtenu, placez-le dans le dossier `data/` et mettez à jour la variable `sources` dans le notebook.
 
 ---
 
@@ -110,7 +102,8 @@ Voici les avertissements à prendre en compte :
 
 ## Auteurs
 
-- **[VOTRE NOM]** — [github.com/VOTRE_PSEUDO](https://github.com/VOTRE_PSEUDO)
+- **KAMDEM KOUAM Ezechiel** 
+— [github.com/VOTRE_PSEUDO](https://github.com/KamdemE)
 
 ---
 
