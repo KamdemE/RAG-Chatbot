@@ -46,8 +46,8 @@ rag-chatbot/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/[github.com/YOUR_USERNAME]/RAG-Chatbot.git
-cd rag-chatbot-mg-zs
+git clone https://github.com/KamdemE/RAG-Chatbot.git
+cd RAG-Chatbot-mg-zs
 
 # 2. Install dependencies
 pip install langchain_community tiktoken langchain-openai langchainhub chromadb langchain
