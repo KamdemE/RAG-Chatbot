@@ -31,7 +31,7 @@ where `rank_i` is the document's position in list `i` and `k=60` is a smoothing 
 ## File Structure
 
 ```
-rag-chatbot/
+RAG-chatbot/
 ├── FirstRAGproject.ipynb   # Main notebook — full commented pipeline
 ├── data/
 │   └── mg-zs-warning-messages.html  
@@ -47,7 +47,7 @@ rag-chatbot/
 ```bash
 # 1. Clone the repository
 git clone https://github.com/KamdemE/RAG-Chatbot.git
-cd RAG-Chatbot-mg-zs
+cd RAG-Chatbot
 
 # 2. Install dependencies
 pip install langchain_community tiktoken langchain-openai langchainhub chromadb langchain

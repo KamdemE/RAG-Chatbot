@@ -31,7 +31,7 @@ où `rang_i` est la position du document dans la liste `i` et `k=60` est une con
 ## Structure des Fichiers
 
 ```
-rag-chatbot/
+RAG-Chatbot/
 ├── FirstRAGproject.ipynb   # Notebook principal — pipeline complet commenté
 ├── data/
 │   └── mg-zs-warning-messages.html  
